@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f1faee;
+}
+header {
+    background-color: #1d3557;
+}
+main {
+    flex: 1 0 auto;
+}
+footer p {
+    background-color: #1d3557;
+}
+#footer {
+    background-color: #1d3557;
+}
+.box1 ,
+.box2 {
+    border: 1px solid rgb(0, 0, 96);
+    border-radius: 6px;
+}
+
+#orignal-bg {
+    background-color: #1d3557;
+}
+#liveDate {
+    font-size: 21px;
+    /* font-weight: 500; */
+}
+/* .box2 {
+    height: 45px;
+} */
+
